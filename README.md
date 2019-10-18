@@ -5,9 +5,13 @@
   These are my goals for setup and implementation.
   
 Implement a 6-jointed robot that can pick up objects of a few discrete varying shapes and sizes and move them to certain bins, with an input that gives the robot the location and orientation of the essential objects. A scripted algorithm will be used to orient all but the appendage joint and do the grabbing
+
 Use computer vision model to distinguish desired objects from background
+
 Detect orientation of said desired objects
+
 Use reinforcement learning to decide the angle of the appendage joint for grabbing
+
 Track statistics of successful desired object placement
 
   The following are stretch goals to further improve the 
