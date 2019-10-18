@@ -14,10 +14,14 @@ Use reinforcement learning to decide the angle of the appendage joint for grabbi
 
 Track statistics of successful desired object placement
 
-  The following are stretch goals to further improve the 
+  The following are stretch goals to further improve the robot.
+  
 Vary conveyor belt speed; do not explicitly give robot the speed value
+
 Continuously vary the sizes of the desired objects
+
 Adjust the lighting and colors to stress test the vision algorithm
+
 Alter coefficient of friction and mass of desired objects
 
   I will use the V-REP simulator, because of its broad capacities such as being able to place a camera somewhere in a scene.
